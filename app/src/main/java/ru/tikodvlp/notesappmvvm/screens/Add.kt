@@ -57,7 +57,6 @@ fun AddScreen(navController: NavHostController) {
         }
     }
 }
-
 @Preview(showBackground = true)
 @Composable
 fun prevAddScreen() {

@@ -54,7 +54,6 @@ fun NoteScreen(navController: NavHostController) {
         }
     }
 }
-
 @Preview(showBackground = true)
 @Composable
 fun prevNoteScreen() {
