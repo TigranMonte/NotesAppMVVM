@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779425308721",
+    "project_id": "notes-app-29efa",
+    "storage_bucket": "notes-app-29efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779425308721:android:3db937fb317f38def37510",
+        "android_client_info": {
+          "package_name": "ru.tikodvlp.notesappmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779425308721-7khgi92t35arlg6rs31jt1fig3i43rg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPO-2B3fNvQ4hcRI8V7vEVSLaYnw-gAOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779425308721-7khgi92t35arlg6rs31jt1fig3i43rg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
